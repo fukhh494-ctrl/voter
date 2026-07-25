@@ -83,5 +83,22 @@
       "address": "বাওডোবা, জাজিরা, শরিয়তপুর"
     },
     "scraped_at": "2026-07-25 14:53:13"
+  },
+  {
+    "result_data": {
+      "center_name": "চিকন্দি শরফ আলী উচ্চ বিদ্যালয়",
+      "voter_area": "বগাদি",
+      "ward": "৩",
+      "serial_number": "০১৭২",
+      "voter_name": "অলি মাদবর",
+      "voter_number": "৮৬০৭০৯২০৬৪৬০",
+      "father_name": "জয়নাল মাদবর",
+      "mother_name": "খতেজা বিবি",
+      "occupation": "কৃষক",
+      "dateOfBirth": "২৭\/১১\/১৯৬৭",
+      "gender": "পুরুষ",
+      "address": "বগাদি, শরিয়তপুর সদর, শরিয়তপুর"
+    },
+    "scraped_at": "2026-07-25 16:15:07"
   }
 ]
