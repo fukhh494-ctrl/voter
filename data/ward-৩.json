@@ -321,5 +321,22 @@
       "address": "মানিক নগর, জাজিরা, শরিয়তপুর"
     },
     "scraped_at": "2026-07-25 16:28:42"
+  },
+  {
+    "result_data": {
+      "center_name": "বুড়িরহাট উচ্চ বিদ্যালয়",
+      "voter_area": "দেওভোগ",
+      "ward": "৩",
+      "serial_number": "০০০৮",
+      "voter_name": "আঃ মান্নান সরদার",
+      "voter_number": "৮৬০৭৭৯১৩৮৪৮৬",
+      "father_name": "আমির হোসেন সরদার",
+      "mother_name": "নুর জাহান",
+      "occupation": "ব্যবসা",
+      "dateOfBirth": "০২\/০২\/১৯৬৮",
+      "gender": "পুরুষ",
+      "address": "দেওভোগ, শরিয়তপুর সদর, শরিয়তপুর"
+    },
+    "scraped_at": "2026-07-25 16:30:06"
   }
 ]
