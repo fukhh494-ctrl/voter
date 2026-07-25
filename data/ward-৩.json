@@ -134,5 +134,22 @@
       "address": "চন্দনকর, শরিয়তপুর সদর, শরিয়তপুর"
     },
     "scraped_at": "2026-07-25 16:17:58"
+  },
+  {
+    "result_data": {
+      "center_name": "বুড়িরহাট উচ্চ বিদ্যালয়",
+      "voter_area": "দেওভোগ",
+      "ward": "৩",
+      "serial_number": "০২৪২",
+      "voter_name": "মোঃ অলিল ফকির",
+      "voter_number": "৮৬০৭৭৯১৪০১৯৮",
+      "father_name": "ছায়েদ ফকির",
+      "mother_name": "ফুলজান বিবি",
+      "occupation": "ব্যবসা",
+      "dateOfBirth": "০১\/০১\/১৯৮৩",
+      "gender": "পুরুষ",
+      "address": "দেওভোগ, শরিয়তপুর সদর,শরিয়তপুর"
+    },
+    "scraped_at": "2026-07-25 16:18:02"
   }
 ]
