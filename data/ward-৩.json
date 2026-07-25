@@ -338,5 +338,22 @@
       "address": "দেওভোগ, শরিয়তপুর সদর, শরিয়তপুর"
     },
     "scraped_at": "2026-07-25 16:30:06"
+  },
+  {
+    "result_data": {
+      "center_name": "চিকন্দি শরফ আলী উচ্চ বিদ্যালয়",
+      "voter_area": "বগাদি",
+      "ward": "৩",
+      "serial_number": "০০০৯",
+      "voter_name": "হযরত আলী সরদার",
+      "voter_number": "৮৬০৭০৯১৩৪৯৭৭",
+      "father_name": "হাসন সরদার",
+      "mother_name": "বনা বিবি",
+      "occupation": "ব্যবসা",
+      "dateOfBirth": "০১\/০৩\/১৯৫৫",
+      "gender": "পুরুষ",
+      "address": "বগাদী, শরিয়তপুর সদর, শরিয়তপুর"
+    },
+    "scraped_at": "2026-07-25 16:30:24"
   }
 ]
